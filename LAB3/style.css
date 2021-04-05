@@ -1,0 +1,27 @@
+body {
+    font-family: 'Kanit', sans-serif;
+}
+
+h1 {
+    color: blueviolet;
+}
+
+h2 {
+    color: crimson;
+}
+
+p {
+    margin: -10px 0px 0px 0px;
+}
+
+strong {
+    background-color: green;
+}
+
+#it {
+    color: white;
+}
+
+.bg-blue {
+    background: blue;
+}
