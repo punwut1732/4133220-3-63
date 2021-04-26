@@ -1,5 +1,5 @@
 <?php
-require "./conDB.php"
+require "./conDB.php";
 
 $member_id = $_POST["id"];
 $course_id = $_POST["subject"];
